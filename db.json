@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "firstName": "roaa",
+      "lastName": "kittaneh",
+      "email": "roaakittaneh2004@gmail.com",
+      "major": "Software Engineering",
+      "gpa": 3.02,
+      "enrollmentYear": 2026,
+      "status": "graduated",
+      "id": "nmw5caZ"
+    },
+    {
+      "id": "88c74379-6e70-4f47-8739-54bd1c97e236",
+      "firstName": "saees",
+      "lastName": "kittaneh",
+      "email": "saeed@gmail.com",
+      "major": "Data Science",
+      "status": "active",
+      "gpa": 3.06,
+      "enrollmentYear": 2026
+    },
+    {
+      "id": "0900f328-b0f1-49eb-a565-0c1fec08bb72",
+      "firstName": "razan",
+      "lastName": "majed",
+      "email": "razan@gmail.com",
+      "major": "Software Engineering",
+      "status": "graduated",
+      "gpa": 2.63,
+      "enrollmentYear": 2026
+    }
+  ]
+}
